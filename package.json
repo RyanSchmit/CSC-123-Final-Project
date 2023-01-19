@@ -1,0 +1,35 @@
+{
+  "homepage": "https://ryanschmit.github.io/Final-Project-for-CSC-123/",
+  "name": "my-project",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "dev": "tsc && vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.13",
+    "gh-pages": "^4.0.0",
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "vega": "^5.22.1",
+    "vega-embed": "^6.21.0",
+    "vega-lite": "^5.4.0"
+  },
+  "description": "used data from corgi and GitHub to create graphs about billionaires",
+  "main": "script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanSchmit/Final-Project-for-CSC-123.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanSchmit/Final-Project-for-CSC-123/issues"
+  }
+}
