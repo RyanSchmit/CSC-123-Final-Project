@@ -1,0 +1,1682 @@
+[
+ {
+   "id": 4,
+   "country": "Afghanistan",
+   "my19": 38.042,
+   "billionaires": 0,
+   "gdppc": 0.47,
+   "mypct": 2.34
+ },
+ {
+   "id": 8,
+   "country": "Albania",
+   "my19": 2.881,
+   "billionaires": 0,
+   "gdppc": 5.303,
+   "mypct": -0.06
+ },
+ {
+   "id": 12,
+   "country": "Algeria",
+   "my19": 43.053,
+   "billionaires": 0,
+   "gdppc": 3.975,
+   "mypct": 1.95
+ },
+ {
+   "id": 16,
+   "country": "American Samoa (United States)",
+   "my19": 0.055,
+   "billionaires": 0,
+   "gdppc": 15.345,
+   "mypct": -0.28
+ },
+ {
+   "id": 20,
+   "country": "Andorra",
+   "my19": 0.077,
+   "billionaires": 0,
+   "gdppc": 40.961,
+   "mypct": 0.18
+ },
+ {
+   "id": 24,
+   "country": "Angola",
+   "my19": 31.825,
+   "billionaires": 0,
+   "gdppc": 2.671,
+   "mypct": 3.3
+ },
+ {
+   "id": 660,
+   "country": "Anguilla (United Kingdom)",
+   "my19": 0.015,
+   "billionaires": 0,
+   "gdppc": 25.267,
+   "mypct": 0.94
+ },
+ {
+   "id": 28,
+   "country": "Antigua and Barbuda",
+   "my19": 0.097,
+   "gdppc": 17.124,"billionaires": 0,
+   
+   "mypct": 0.86
+ },
+ {
+   "id": 32,
+   "country": "Argentina",
+   "my19": 44.781,
+   "gdppc": 10.041,"billionaires": 0,
+   
+   "mypct": 0.95
+ },
+ {
+   "id": 51,
+   "country": "Armenia",
+   "my19": 2.958,
+   "gdppc": 4.622,"billionaires": 0,
+   
+   "mypct": 0.2
+ },
+ {
+   "id": 533,
+   "country": "Aruba (Netherlands)",
+   "my19": 0.106,
+   "gdppc": 31.066,"billionaires": 0,
+   
+   "mypct": 0.44
+ },
+ {
+   "id": 36,
+   "country": "Australia",
+   "my19": 25.203,
+   "gdppc": 54.764,"billionaires": 0,
+   
+   "mypct": 1.23
+ },
+ {
+   "id": 40,
+   "country": "Austria",
+   "my19": 8.955,
+   "gdppc": 49.701,"billionaires": 0,
+   
+   "mypct": 0.72
+ },
+ {
+   "id": 31,
+   "country": "Azerbaijan[k]",
+   "my19": 10.048,
+   "gdppc": 4.782,"billionaires": 0,
+   
+   "mypct": 0.99
+ },
+ {
+   "id": 44,
+   "country": "Bahamas",
+   "my19": 0.389,
+   "gdppc": 34.905,"billionaires": 0,
+   
+   "mypct": 1
+ },
+ {
+   "id": 48,
+   "country": "Bahrain",
+   "my19": 1.641,
+   "gdppc": 23.506,"billionaires": 0,
+   
+   "mypct": 4.57
+ },
+ {
+   "id": 50,
+   "country": "Bangladesh",
+   "my19": 163.046,
+   "gdppc": 1.846,"billionaires": 0,
+   
+   "mypct": 1.03
+ },
+ {
+   "id": 52,
+   "country": "Barbados",
+   "my19": 0.287,
+   "gdppc": 18.15,"billionaires": 0,
+   
+   "mypct": 0.13
+ },
+ {
+   "id": 112,
+   "country": "Belarus",
+   "my19": 9.452,
+   "gdppc": 6.674,"billionaires": 0,
+   
+   "mypct": 0
+ },
+ {
+   "id": 56,
+   "country": "Belgium",
+   "my19": 11.539,
+   "gdppc": 46.2,"billionaires": 0,
+   
+   "mypct": 0.5
+ },
+ {
+   "id": 84,
+   "country": "Belize",
+   "my19": 0.39,
+   "gdppc": 4.887,"billionaires": 0,
+   
+   "mypct": 1.9
+ },
+ {
+   "id": 204,
+   "country": "Benin",
+   "my19": 11.801,
+   "gdppc": 1.22,"billionaires": 0,
+   
+   "mypct": 2.75
+ },
+ {
+   "id": 60,
+   "country": "Bermuda",
+   "my19": 0.063,
+   "gdppc": 116.841,"billionaires": 0,
+   
+   "mypct": -0.4
+ },
+ {
+   "id": 64,
+   "country": "Bhutan",
+   "my19": 0.763,
+   "gdppc": 3.36,"billionaires": 0,
+   
+   "mypct": 1.15
+ },
+ {
+   "id": 68,
+   "country": "Bolivia",
+   "my19": 11.513,
+   "gdppc": 3.552,"billionaires": 0,
+   
+   "mypct": 1.41
+ },
+ {
+   "id": 70,
+   "country": "Bosnia and Herzegovina",
+   "my19": 3.301,
+   "gdppc": 6.108,"billionaires": 0,
+   
+   "mypct": -0.69
+ },
+ {
+   "id": 72,
+   "country": "Botswana",
+   "my19": 2.304,
+   "gdppc": 7.96,"billionaires": 0,
+   
+   "mypct": 2.2
+ },
+ {
+   "id": 76,
+   "country": "Brazil",
+   "my19": 211.05,
+   "gdppc": 8.755,"billionaires": 0,
+   
+   "mypct": 0.75
+ },
+ {
+   "id": 92,
+   "country": "British Virgin Islands (United Kingdom)",
+   "my19": 0.03,
+   "gdppc": 43.2,"billionaires": 0,
+   
+   "mypct": 0.77
+ },
+ {
+   "id": 96,
+   "country": "Brunei",
+   "my19": 0.433,
+   "gdppc": 31.106,"billionaires": 0,
+   
+   "mypct": 1.01
+ },
+ {
+   "id": 100,
+   "country": "Bulgaria",
+   "my19": 7,
+   "gdppc": 9.704,"billionaires": 0,
+   
+   "mypct": -0.73
+ },
+ {
+   "id": 854,
+   "country": "Burkina Faso",
+   "my19": 20.321,
+   "gdppc": 0.787,"billionaires": 0,
+   
+   "mypct": 2.89
+ },
+ {
+   "id": 108,
+   "country": "Burundi",
+   "my19": 10.864,
+   "gdppc": 0.276,"billionaires": 0,
+   
+   "mypct": 3.23
+ },
+ {
+   "id": 116,
+   "country": "Cambodia",
+   "my19": 16.487,
+   "gdppc": 1.644,"billionaires": 0,
+   
+   "mypct": 1.46
+ },
+ {
+   "id": 120,
+   "country": "Cameroon",
+   "my19": 25.876,
+   "gdppc": 1.502,"billionaires": 0,
+   
+   "mypct": 2.62
+ },
+ {
+   "id": 124,
+   "country": "Canada",
+   "my19": 37.411,
+   "gdppc": 46.55,"billionaires": 0,
+   
+   "mypct": 0.91
+ },
+ {
+   "id": 132,
+   "country": "Cape Verde",
+   "my19": 0.55,
+   "gdppc": 3.602,"billionaires": 0,
+   
+   "mypct": 1.13
+ },
+ {
+   "id": 136,
+   "country": "Cayman Islands (United Kingdom)",
+   "my19": 0.065,
+   "gdppc": 92.615,"billionaires": 0,
+   
+   "mypct": 1.21
+ },
+ {
+   "id": 140,
+   "country": "Central African Republic",
+   "my19": 4.745,
+   "gdppc": 0.468,"billionaires": 0,
+   
+   "mypct": 1.69
+ },
+ {
+   "id": 148,
+   "country": "Chad",
+   "my19": 15.947,
+   "gdppc": 0.707,"billionaires": 0,
+   
+   "mypct": 3.03
+ },
+ {
+   "id": 152,
+   "country": "Chile",
+   "my19": 18.952,
+   "gdppc": 14.896,"billionaires": 0,
+   
+   "mypct": 1.19
+ },
+ {
+   "id": 156,
+   "country": "China",
+   "my19": 1433.784,
+   "gdppc": 10.004,"billionaires": 0,
+   
+   "mypct": 0.43
+ },
+ {
+   "id": 170,
+   "country": "Colombia",
+   "my19": 50.339,
+   "gdppc": 6.432,"billionaires": 0,
+   
+   "mypct": 1.37
+ },
+ {
+   "id": 174,
+   "country": "Comoros",
+   "my19": 0.851,
+   "gdppc": 1.369,"billionaires": 0,
+   
+   "mypct": 2.23
+ },
+ {
+   "id": 178,
+   "country": "Congo",
+   "my19": 5.381,
+   "gdppc": 2.304,"billionaires": 0,
+   
+   "mypct": 2.6
+ },
+ {
+   "id": 184,
+   "country": "Cook Islands (New Zealand)",
+   "my19": 0.018,
+   "gdppc": 21.056,"billionaires": 0,
+   
+   "mypct": 0.17
+ },
+ {
+   "id": 188,
+   "country": "Costa Rica",
+   "my19": 5.048,
+   "gdppc": 12.237,"billionaires": 0,
+   
+   "mypct": 0.96
+ },
+ {
+   "id": 191,
+   "country": "Croatia",
+   "my19": 4.13,
+   "gdppc": 14.628,"billionaires": 0,
+   
+   "mypct": -0.63
+ },
+ {
+   "id": 192,
+   "country": "Cuba",
+   "my19": 11.333,
+   "gdppc": 9.296,"billionaires": 0,
+   
+   "mypct": -0.04
+ },
+ {
+   "id": 531,
+   "country": "Curaçao (Netherlands)",
+   "my19": 0.163,
+   "gdppc": 19.025,"billionaires": 0,
+   
+   "mypct": 0.41
+ },
+ {
+   "id": 196,
+   "country": "Cyprus",
+   "my19": 1.18,
+   "gdppc": 20.818,"billionaires": 0,
+   
+   "mypct": 0.81
+ },
+ {
+   "id": 203,
+   "country": "Czech Republic",
+   "my19": 10.689,
+   "gdppc": 23.452,"billionaires": 0,
+   
+   "mypct": 0.22
+ },
+ {
+   "id": 208,
+   "country": "Denmark",
+   "my19": 5.772,
+   "gdppc": 60.656,"billionaires": 0,
+   
+   "mypct": 0.34
+ },
+ {
+   "id": 262,
+   "country": "Djibouti",
+   "my19": 0.974,
+   "gdppc": 3.251,"billionaires": 0,
+   
+   "mypct": 1.53
+ },
+ {
+   "id": 212,
+   "country": "Dominica",
+   "my19": 0.072,
+   "gdppc": 8.083,"billionaires": 0,
+   
+   "mypct": 0.26
+ },
+ {
+   "id": 214,
+   "country": "Dominican Republic",
+   "my19": 10.739,
+   "gdppc": 8.282,"billionaires": 0,
+   
+   "mypct": 1.05
+ },
+ {
+   "id": 180,
+   "country": "DR Congo",
+   "my19": 86.791,
+   "gdppc": 0.545,"billionaires": 0,
+   
+   "mypct": 3.24
+ },
+ {
+   "id": 626,
+   "country": "East Timor",
+   "my19": 1.293,
+   "gdppc": 1.56,"billionaires": 0,
+   
+   "mypct": 1.98
+ },
+ {
+   "id": 218,
+   "country": "Ecuador",
+   "my19": 17.374,
+   "gdppc": 6.184,"billionaires": 0,
+   
+   "mypct": 1.69
+ },
+ {
+   "id": 818,
+   "country": "Egypt",
+   "my19": 100.388,
+   "gdppc": 3.161,"billionaires": 0,
+   
+   "mypct": 2
+ },
+ {
+   "id": 222,
+   "country": "El Salvador",
+   "my19": 6.454,
+   "gdppc": 4.187,"billionaires": 0,
+   
+   "mypct": 0.51
+ },
+ {
+   "id": 226,
+   "country": "Equatorial Guinea",
+   "my19": 1.356,
+   "gdppc": 8.13,"billionaires": 0,
+   
+   "mypct": 3.59
+ },
+ {
+   "id": 232,
+   "country": "Eritrea",
+   "my19": 3.497,
+   "gdppc": 0.566,"billionaires": 0,
+   
+   "mypct": 1.28
+ },
+ {
+   "id": 233,
+   "country": "Estonia",
+   "my19": 1.326,
+   "gdppc": 23.734,"billionaires": 0,
+   
+   "mypct": 0.21
+ },
+ {
+   "id": 748,
+   "country": "Eswatini",
+   "my19": 1.148,
+   "gdppc": 4.002,"billionaires": 0,
+   
+   "mypct": 1.04
+ },
+ {
+   "id": 231,
+   "country": "Ethiopia",
+   "my19": 112.079,
+   "gdppc": 0.828,"billionaires": 0,
+   
+   "mypct": 2.61
+ },
+ {
+   "id": 583,
+   "country": "F.S. Micronesia",
+   "my19": 0.114,
+   "gdppc": 3.632,"billionaires": 0,
+   
+   "mypct": 1.04
+ },
+ {
+   "id": 242,
+   "country": "Fiji",
+   "my19": 0.89,
+   "gdppc": 6.184,"billionaires": 0,
+   
+   "mypct": 0.73
+ },
+ {
+   "id": 246,
+   "country": "Finland",
+   "my19": 5.532,
+   "gdppc": 48.68,"billionaires": 0,
+   
+   "mypct": 0.17
+ },
+ {
+   "id": 250,
+   "country": "France",
+   "my19": 65.13,
+   "gdppc": 41.694,"billionaires": 0,
+   
+   "mypct": 0.21
+ },
+ {
+   "id": 258,
+   "country": "French Polynesia (France)",
+   "my19": 0.279,
+   "gdppc": 21.588,"billionaires": 0,
+   
+   "mypct": 0.58
+ },
+ {
+   "id": 266,
+   "country": "Gabon",
+   "my19": 2.173,
+   "gdppc": 7.771,"billionaires": 0,
+   
+   "mypct": 2.52
+ },
+ {
+   "id": 270,
+   "country": "Gambia",
+   "my19": 2.348,
+   "gdppc": 0.776,"billionaires": 0,
+   
+   "mypct": 2.97
+ },
+ {
+   "id": 268,
+   "country": "Georgia",
+   "my19": 3.997,
+   "gdppc": 4.439,"billionaires": 0,
+   
+   "mypct": -0.15
+ },
+ {
+   "id": 276,
+   "country": "Germany",
+   "my19": 83.517,
+   "gdppc": 46.232,"billionaires": 0,
+   
+   "mypct": 0.47
+ },
+ {
+   "id": 288,
+   "country": "Ghana",
+   "my19": 28.834,
+   "gdppc": 2.324,"billionaires": 0,
+   
+   "mypct": 2.22
+ },
+ {
+   "id": 300,
+   "country": "Greece",
+   "my19": 10.473,
+   "gdppc": 19.605,"billionaires": 0,
+   
+   "mypct": -0.46
+ },
+ {
+   "id": 304,
+   "country": "Greenland (Denmark)",
+   "my19": 0.057,
+   "gdppc": 53.035,"billionaires": 0,
+   
+   "mypct": 0.19
+ },
+ {
+   "id": 308,
+   "country": "Grenada",
+   "my19": 0.112,
+   "gdppc": 10.812,"billionaires": 0,
+   
+   "mypct": 0.49
+ },
+ {
+   "id": 320,
+   "country": "Guatemala",
+   "my19": 17.581,
+   "gdppc": 4.363,"billionaires": 0,
+   
+   "mypct": 1.93
+ },
+ {
+   "id": 324,
+   "country": "Guinea",
+   "my19": 12.771,
+   "gdppc": 0.967,"billionaires": 0,
+   
+   "mypct": 2.88
+ },
+ {
+   "id": 624,
+   "country": "Guinea-Bissau",
+   "my19": 1.921,
+   "gdppc": 0.688,"billionaires": 0,
+   
+   "mypct": 2.49
+ },
+ {
+   "id": 328,
+   "country": "Guyana",
+   "my19": 0.783,
+   "gdppc": 6.607,"billionaires": 0,
+   
+   "mypct": 0.48
+ },
+ {
+   "id": 332,
+   "country": "Haiti",
+   "my19": 11.264,
+   "gdppc": 0.715,"billionaires": 0,
+   
+   "mypct": 1.26
+ },
+ {
+   "id": 340,
+   "country": "Honduras",
+   "my19": 9.746,
+   "gdppc": 2.575,"billionaires": 0,
+   
+   "mypct": 1.65
+ },
+ {
+   "id": 344,
+   "country": "Hong Kong",
+   "my19": 7.436,
+   "gdppc": 49.181,"billionaires": 0,
+   
+   "mypct": 0.87
+ },
+ {
+   "id": 348,
+   "country": "Hungary",
+   "my19": 9.685,
+   "gdppc": 16.879,"billionaires": 0,
+   
+   "mypct": -0.24
+ },
+ {
+   "id": 352,
+   "country": "Iceland",
+   "my19": 0.339,
+   "gdppc": 71.351,"billionaires": 0,
+   
+   "mypct": 0.69
+ },
+ {
+   "id": 356,
+   "country": "India",
+   "my19": 1366.418,
+   "gdppc": 2.116,"billionaires": 0,
+   
+   "mypct": 1.02
+ },
+ {
+   "id": 360,
+   "country": "Indonesia",
+   "my19": 270.626,
+   "gdppc": 4.136,"billionaires": 0,
+   
+   "mypct": 1.1
+ },
+ {
+   "id": 364,
+   "country": "Iran",
+   "my19": 82.914,
+   "gdppc": 7.282,"billionaires": 0,
+   
+   "mypct": 1.36
+ },
+ {
+   "id": 368,
+   "country": "Iraq",
+   "my19": 39.31,
+   "gdppc": 5.73,"billionaires": 0,
+   
+   "mypct": 2.28
+ },
+ {
+   "id": 372,
+   "country": "Ireland",
+   "my19": 4.882,
+   "gdppc": 81.645,"billionaires": 0,
+   
+   "mypct": 1.32
+ },
+ {
+   "id": 376,
+   "country": "Israel",
+   "my19": 8.519,
+   "gdppc": 46.378,"billionaires": 0,
+   
+   "mypct": 1.64
+ },
+ {
+   "id": 380,
+   "country": "Italy",
+   "my19": 60.55,
+   "gdppc": 33.09,"billionaires": 0,
+   
+   "mypct": -0.13
+ },
+ {
+   "id": 384,
+   "country": "Ivory Coast",
+   "my19": 25.717,
+   "gdppc": 2.276,"billionaires": 0,
+   
+   "mypct": 2.58
+ },
+ {
+   "id": 388,
+   "country": "Jamaica",
+   "my19": 2.948,
+   "gdppc": 5.37,"billionaires": 0,
+   
+   "mypct": 0.46
+ },
+ {
+   "id": 392,
+   "country": "Japan",
+   "my19": 126.86,
+   "gdppc": 40.064,"billionaires": 0,
+   
+   "mypct": -0.27
+ },
+ {
+   "id": 400,
+   "country": "Jordan",
+   "my19": 10.102,
+   "gdppc": 4.405,"billionaires": 0,
+   
+   "mypct": 1.37
+ },
+ {
+   "id": 398,
+   "country": "Kazakhstan",
+   "my19": 18.551,
+   "gdppc": 9.793,"billionaires": 0,
+   
+   "mypct": 1.27
+ },
+ {
+   "id": 404,
+   "country": "Kenya",
+   "my19": 52.574,
+   "gdppc": 1.817,"billionaires": 0,
+   
+   "mypct": 2.3
+ },
+ {
+   "id": 296,
+   "country": "Kiribati",
+   "my19": 0.118,
+   "gdppc": 1.644,"billionaires": 0,
+   
+   "mypct": 1.52
+ },
+ {
+   "id": 414,
+   "country": "Kuwait",
+   "my19": 4.207,
+   "gdppc": 32,"billionaires": 0,
+   
+   "mypct": 1.69
+ },
+ {
+   "id": 417,
+   "country": "Kyrgyzstan",
+   "my19": 6.416,
+   "gdppc": 1.318,"billionaires": 0,
+   
+   "mypct": 1.77
+ },
+ {
+   "id": 418,
+   "country": "Laos",
+   "my19": 7.169,
+   "gdppc": 2.625,"billionaires": 0,
+   
+   "mypct": 1.53
+ },
+ {
+   "id": 428,
+   "country": "Latvia",
+   "my19": 1.907,
+   "gdppc": 17.883,"billionaires": 0,
+   
+   "mypct": -1.13
+ },
+ {
+   "id": 422,
+   "country": "Lebanon",
+   "my19": 6.856,
+   "gdppc": 8.228,"billionaires": 0,
+   
+   "mypct": -0.05
+ },
+ {
+   "id": 426,
+   "country": "Lesotho",
+   "my19": 2.125,
+   "gdppc": 1.158,"billionaires": 0,
+   
+   "mypct": 0.8
+ },
+ {
+   "id": 430,
+   "country": "Liberia",
+   "my19": 4.937,
+   "gdppc": 0.523,"billionaires": 0,
+   
+   "mypct": 2.46
+ },
+ {
+   "id": 434,
+   "country": "Libya",
+   "my19": 6.777,
+   "gdppc": 4.81,"billionaires": 0,
+   
+   "mypct": 1.48
+ },
+ {
+   "id": 438,
+   "country": "Liechtenstein",
+   "my19": 0.038,
+   "gdppc": 178.868,"billionaires": 0,
+   
+   "mypct": 0.29
+ },
+ {
+   "id": 440,
+   "country": "Lithuania",
+   "my19": 2.76,
+   "gdppc": 19.792,"billionaires": 0,
+   
+   "mypct": -1.49
+ },
+ {
+   "id": 442,
+   "country": "Luxembourg",
+   "my19": 0.616,
+   "gdppc": 115.429,"billionaires": 0,
+   
+   "mypct": 1.9
+ },
+ {
+   "id": 446,
+   "country": "Macau (China)[u]",
+   "my19": 0.64,
+   "gdppc": 84.155,"billionaires": 0,
+   
+   "mypct": 1.39
+ },
+ {
+   "id": 450,
+   "country": "Madagascar",
+   "my19": 26.969,
+   "gdppc": 0.523,"billionaires": 0,
+   
+   "mypct": 2.69
+ },
+ {
+   "id": 454,
+   "country": "Malawi",
+   "my19": 18.629,
+   "gdppc": 0.435,"billionaires": 0,
+   
+   "mypct": 2.68
+ },
+ {
+   "id": 458,
+   "country": "Malaysia",
+   "my19": 31.95,
+   "gdppc": 11.414,"billionaires": 0,
+   
+   "mypct": 1.34
+ },
+ {
+   "id": 462,
+   "country": "Maldives",
+   "my19": 0.531,
+   "gdppc": 10.625,"billionaires": 0,
+   
+   "mypct": 2.96
+ },
+ {
+   "id": 466,
+   "country": "Mali",
+   "my19": 19.658,
+   "gdppc": 0.887,"billionaires": 0,
+   
+   "mypct": 3.04
+ },
+ {
+   "id": 470,
+   "country": "Malta",
+   "my19": 0.44,
+   "gdppc": 33.78,"billionaires": 0,
+   
+   "mypct": 0.26
+ },
+ {
+   "id": 584,
+   "country": "Marshall Islands",
+   "my19": 0.059,
+   "gdppc": 4.017,"billionaires": 0,
+   
+   "mypct": 0.65
+ },
+ {
+   "id": 478,
+   "country": "Mauritania",
+   "my19": 4.526,
+   "gdppc": 1.678,"billionaires": 0,
+   
+   "mypct": 2.78
+ },
+ {
+   "id": 480,
+   "country": "Mauritius[s]",
+   "my19": 1.199,
+   "gdppc": 11.827,"billionaires": 0,
+   
+   "mypct": 0.78
+ },
+ {
+   "id": 484,
+   "country": "Mexico",
+   "my19": 127.576,
+   "gdppc": 9.849,"billionaires": 0,
+   
+   "mypct": 1.1
+ },
+ {
+   "id": 498,
+   "country": "Moldova[q]",
+   "my19": 4.043,
+   "gdppc": 2.957,"billionaires": 0,
+   
+   "mypct": -0.21
+ },
+ {
+   "id": 492,
+   "country": "Monaco",
+   "my19": 0.039,
+   "gdppc": 190.333,"billionaires": 0,
+   
+   "mypct": 0.73
+ },
+ {
+   "id": 496,
+   "country": "Mongolia",
+   "my19": 3.225,
+   "gdppc": 4.295,"billionaires": 0,
+   
+   "mypct": 1.73
+ },
+ {
+   "id": 499,
+   "country": "Montenegro",
+   "my19": 0.628,
+   "gdppc": 8.825,"billionaires": 0,
+   
+   "mypct": 0.03
+ },
+ {
+   "id": 500,
+   "country": "Montserrat (United Kingdom)",
+   "my19": 0.005,
+   "gdppc": 13.4,"billionaires": 0,
+   
+   "mypct": -0.08
+ },
+ {
+   "id": 504,
+   "country": "Morocco",
+   "my19": 36.472,
+   "gdppc": 3.282,"billionaires": 0,
+   
+   "mypct": 1.23
+ },
+ {
+   "id": 508,
+   "country": "Mozambique",
+   "my19": 30.366,
+   "gdppc": 0.504,"billionaires": 0,
+   
+   "mypct": 2.95
+ },
+ {
+   "id": 104,
+   "country": "Myanmar",
+   "my19": 54.045,
+   "gdppc": 1.421,"billionaires": 0,
+   
+   "mypct": 0.63
+ },
+ {
+   "id": 516,
+   "country": "Namibia",
+   "my19": 2.495,
+   "gdppc": 4.956,"billionaires": 0,
+   
+   "mypct": 1.89
+ },
+ {
+   "id": 520,
+   "country": "Nauru",
+   "my19": 0.011,
+   "gdppc": 12,"billionaires": 0,
+   
+   "mypct": 0.81
+ },
+ {
+   "id": 524,
+   "country": "Nepal",
+   "my19": 28.609,
+   "gdppc": 1.074,"billionaires": 0,
+   
+   "mypct": 1.83
+ },
+ {
+   "id": 528,
+   "country": "Netherlands",
+   "my19": 17.097,
+   "gdppc": 53.053,"billionaires": 0,
+   
+   "mypct": 0.22
+ },
+ {
+   "id": 540,
+   "country": "New Caledonia (France)",
+   "my19": 0.283,
+   "gdppc": 34.908,"billionaires": 0,
+   
+   "mypct": 0.98
+ },
+ {
+   "id": 554,
+   "country": "New Zealand",
+   "my19": 4.783,
+   "gdppc": 43.265,"billionaires": 0,
+   
+   "mypct": 0.84
+ },
+ {
+   "id": 558,
+   "country": "Nicaragua",
+   "my19": 6.546,
+   "gdppc": 1.913,"billionaires": 0,
+   
+   "mypct": 1.24
+ },
+ {
+   "id": 562,
+   "country": "Niger",
+   "my19": 23.311,
+   "gdppc": 0.555,"billionaires": 0,
+   
+   "mypct": 3.87
+ },
+ {
+   "id": 566,
+   "country": "Nigeria",
+   "my19": 200.964,
+   "gdppc": 2.361,"billionaires": 0,
+   
+   "mypct": 2.6
+ },
+ {
+   "id": 408,
+   "country": "North Korea",
+   "my19": 25.666,
+   "gdppc": 0.636,"billionaires": 0,
+   
+   "mypct": 0.46
+ },
+ {
+   "id": 807,
+   "country": "North Macedonia",
+   "my19": 2.083,
+   "gdppc": 6.094,"billionaires": 0,
+   
+   "mypct": 0.02
+ },
+ {
+   "id": 578,
+   "country": "Norway",
+   "my19": 5.379,
+   "gdppc": 74.983,"billionaires": 0,
+   
+   "mypct": 0.77
+ },
+ {
+   "id": 512,
+   "country": "Oman",
+   "my19": 4.975,
+   "gdppc": 15.343,"billionaires": 0,
+   
+   "mypct": 3.01
+ },
+ {
+   "id": 586,
+   "country": "Pakistan",
+   "my19": 216.565,
+   "gdppc": 1.187,"billionaires": 0,
+   
+   "mypct": 2.04
+ },
+ {
+   "id": 585,
+   "country": "Palau",
+   "my19": 0.018,
+   "gdppc": 15.556,"billionaires": 0,
+   
+   "mypct": 0.56
+ },
+ {
+   "id": 275,
+   "country": "Palestine[p]",
+   "my19": 4.981,
+   "gdppc": 3.425,"billionaires": 0,
+   
+   "mypct": 2.44
+ },
+ {
+   "id": 591,
+   "country": "Panama",
+   "my19": 4.246,
+   "gdppc": 15.729,"billionaires": 0,
+   
+   "mypct": 1.67
+ },
+ {
+   "id": 598,
+   "country": "Papua New Guinea",
+   "my19": 8.776,
+   "gdppc": 2.845,"billionaires": 0,
+   
+   "mypct": 1.97
+ },
+ {
+   "id": 600,
+   "country": "Paraguay",
+   "my19": 7.045,
+   "gdppc": 5.406,"billionaires": 0,
+   
+   "mypct": 1.27
+ },
+ {
+   "id": 604,
+   "country": "Peru",
+   "my19": 32.51,
+   "gdppc": 6.978,"billionaires": 0,
+   
+   "mypct": 1.63
+ },
+ {
+   "id": 608,
+   "country": "Philippines",
+   "my19": 108.117,
+   "gdppc": 3.324,"billionaires": 0,
+   
+   "mypct": 1.37
+ },
+ {
+   "id": 616,
+   "country": "Poland",
+   "my19": 37.888,
+   "gdppc": 15.727,"billionaires": 0,
+   
+   "mypct": -0.09
+ },
+ {
+   "id": 620,
+   "country": "Portugal",
+   "my19": 10.226,
+   "gdppc": 23.351,"billionaires": 0,
+   
+   "mypct": -0.29
+ },
+ {
+   "id": 630,
+   "country": "Puerto Rico (United States)",
+   "my19": 2.933,
+   "gdppc": 35.795,"billionaires": 0,
+   
+   "mypct": -3.49
+ },
+ {
+   "id": 634,
+   "country": "Qatar",
+   "my19": 2.832,
+   "gdppc": 64.783,"billionaires": 0,
+   
+   "mypct": 1.81
+ },
+ {
+   "id": 642,
+   "country": "Romania",
+   "my19": 19.365,
+   "gdppc": 12.914,"billionaires": 0,
+   
+   "mypct": -0.73
+ },
+ {
+   "id": 643,
+   "country": "Russia",
+   "my19": 145.872,
+   "gdppc": 11.606,"billionaires": 0,
+   
+   "mypct": 0.09
+ },
+ {
+   "id": 646,
+   "country": "Rwanda",
+   "my19": 12.627,
+   "gdppc": 0.82,"billionaires": 0,
+   
+   "mypct": 2.64
+ },
+ {
+   "id": 678,
+   "country": "São Tomé and Príncipe",
+   "my19": 0.215,
+   "gdppc": 1.958,"billionaires": 0,
+   
+   "mypct": 1.91
+ },
+ {
+   "id": 659,
+   "country": "St. Kitts and Nevis",
+   "my19": 0.053,
+   "gdppc": 19.811,"billionaires": 0,
+   
+   "mypct": 0.73
+ },
+ {
+   "id": 662,
+   "country": "Saint Lucia",
+   "my19": 0.183,
+   "gdppc": 11.596,"billionaires": 0,
+   
+   "mypct": 0.5
+ },
+ {
+   "id": 666,
+   "country": "Saint Pierre and Miquelon (France)",
+   "my19": 0.006,
+   "gdppc": 137.5,"billionaires": 0,
+   
+   "mypct": -0.46
+ },
+ {
+   "id": 674,
+   "country": "San Marino",
+   "my19": 0.034,
+   "gdppc": 47.118,"billionaires": 0,
+   
+   "mypct": 0.22
+ },
+ {
+   "id": 682,
+   "country": "Saudi Arabia",
+   "my19": 34.269,
+   "gdppc": 23.139,"billionaires": 0,
+   
+   "mypct": 1.68
+ },
+ {
+   "id": 686,
+   "country": "Senegal",
+   "my19": 16.296,
+   "gdppc": 1.452,"billionaires": 0,
+   
+   "mypct": 2.79
+ },
+ {
+   "id": 688,
+   "country": "Serbia[l]",
+   "my19": 8.772,
+   "gdppc": 6.775,"billionaires": 0,
+   
+   "mypct": -0.35
+ },
+ {
+   "id": 690,
+   "country": "Seychelles",
+   "my19": 0.098,
+   "gdppc": 17.327,"billionaires": 0,
+   
+   "mypct": 0.66
+ },
+ {
+   "id": 694,
+   "country": "Sierra Leone",
+   "my19": 7.813,
+   "gdppc": 0.527,"billionaires": 0,
+   
+   "mypct": 2.13
+ },
+ {
+   "id": 702,
+   "country": "Singapore",
+   "my19": 5.804,
+   "gdppc": 64.106,"billionaires": 0,
+   
+   "mypct": 0.81
+ },
+ {
+   "id": 534,
+   "country": "Sint Maarten (Netherlands)",
+   "my19": 0.042,
+   "gdppc": 24.024,"billionaires": 0,
+   
+   "mypct": 1.07
+ },
+ {
+   "id": 703,
+   "country": "Slovakia",
+   "my19": 5.457,
+   "gdppc": 19.256,"billionaires": 0,
+   
+   "mypct": 0.07
+ },
+ {
+   "id": 705,
+   "country": "Slovenia",
+   "my19": 2.079,
+   "gdppc": 26.058,"billionaires": 0,
+   
+   "mypct": 0.04
+ },
+ {
+   "id": 90,
+   "country": "Solomon Islands",
+   "my19": 0.67,
+   "gdppc": 1.943,"billionaires": 0,
+   
+   "mypct": 2.6
+ },
+ {
+   "id": 706,
+   "country": "Somalia",
+   "my19": 15.443,
+   "gdppc": 0.105,"billionaires": 0,
+   
+   "mypct": 2.9
+ },
+ {
+   "id": 710,
+   "country": "South Africa",
+   "my19": 58.558,
+   "gdppc": 6.001,"billionaires": 0,
+   
+   "mypct": 1.33
+ },
+ {
+   "id": 410,
+   "country": "South Korea",
+   "my19": 51.225,
+   "gdppc": 32.143,"billionaires": 0,
+   
+   "mypct": 0.1
+ },
+ {
+   "id": 728,
+   "country": "South Sudan",
+   "my19": 11.062,
+   "gdppc": 0.448,"billionaires": 0,
+   
+   "mypct": 0.79
+ },
+ {
+   "id": 724,
+   "country": "Spain",
+   "my19": 46.737,
+   "gdppc": 29.816,"billionaires": 0,
+   
+   "mypct": 0.09
+ },
+ {
+   "id": 144,
+   "country": "Sri Lanka",
+   "my19": 21.324,
+   "gdppc": 3.94,"billionaires": 0,
+   
+   "mypct": 0.45
+ },
+ {
+   "id": 729,
+   "country": "Sudan",
+   "my19": 42.813,
+   "gdppc": 0.815,"billionaires": 0,
+   
+   "mypct": 2.42
+ },
+ {
+   "id": 740,
+   "country": "Suriname",
+   "my19": 0.581,
+   "gdppc": 6.363,"billionaires": 0,
+   
+   "mypct": 0.93
+ },
+ {
+   "id": 752,
+   "country": "Sweden",
+   "my19": 10.036,
+   "gdppc": 52.898,"billionaires": 0,
+   
+   "mypct": 0.65
+ },
+ {
+   "id": 756,
+   "country": "Switzerland",
+   "my19": 8.591,
+   "gdppc": 85.139,"billionaires": 0,
+   
+   "mypct": 0.77
+ },
+ {
+   "id": 760,
+   "country": "Syria",
+   "my19": 17.07,
+   "gdppc": 1.194,"billionaires": 0,
+   
+   "mypct": 0.74
+ },
+ {
+   "id": 762,
+   "country": "Tajikistan",
+   "my19": 9.321,
+   "gdppc": 0.894,"billionaires": 0,
+   
+   "mypct": 2.42
+ },
+ {
+   "id": 834,
+   "country": "Tanzania",
+   "my19": 58.005,
+   "gdppc": 1.085,"billionaires": 0,
+   
+   "mypct": 3
+ },
+ {
+   "id": 764,
+   "country": "Thailand",
+   "my19": 69.038,
+   "gdppc": 7.851,"billionaires": 0,
+   
+   "mypct": 0.25
+ },
+ {
+   "id": 768,
+   "country": "Togo",
+   "my19": 8.082,
+   "gdppc": 0.9,"billionaires": 0,
+   
+   "mypct": 2.45
+ },
+ {
+   "id": 776,
+   "country": "Tonga",
+   "my19": 0.111,
+   "gdppc": 4.577,"billionaires": 0,
+   
+   "mypct": 0.32
+ },
+ {
+   "id": 780,
+   "country": "Trinidad and Tobago",
+   "my19": 1.395,
+   "gdppc": 16.637,"billionaires": 0,
+   
+   "mypct": 0.37
+ },
+ {
+   "id": 788,
+   "country": "Tunisia",
+   "my19": 11.695,
+   "gdppc": 3.317,"billionaires": 0,
+   
+   "mypct": 1.12
+ },
+ {
+   "id": 792,
+   "country": "Turkey",
+   "my19": 83.43,
+   "gdppc": 9.127,"billionaires": 0,
+   
+   "mypct": 1.32
+ },
+ {
+   "id": 795,
+   "country": "Turkmenistan",
+   "my19": 5.942,
+   "gdppc": 8.125,"billionaires": 0,
+   
+   "mypct": 1.56
+ },
+ {
+   "id": 796,
+   "country": "Turks and Caicos Islands (United Kingdom)",
+   "my19": 0.038,
+   "gdppc": 31.5,"billionaires": 0,
+   
+   "mypct": 1.4
+ },
+ {
+   "id": 798,
+   "country": "Tuvalu",
+   "my19": 0.012,
+   "gdppc": 3.917,"billionaires": 0,
+   
+   "mypct": 1.2
+ },
+ {
+   "id": 800,
+   "country": "Uganda",
+   "my19": 44.27,
+   "gdppc": 0.737,"billionaires": 0,
+   
+   "mypct": 3.61
+ },
+ {
+   "id": 804,
+   "country": "Ukraine",
+   "my19": 43.994,
+   "gdppc": 3.495,"billionaires": 0,
+   
+   "mypct": -0.57
+ },
+ {
+   "id": 784,
+   "country": "United Arab Emirates",
+   "my19": 9.771,
+   "gdppc": 43.101,"billionaires": 0,
+   
+   "mypct": 1.45
+ },
+ {
+   "id": 826,
+   "country": "United Kingdom",
+   "my19": 67.53,
+   "gdppc": 41.855,"billionaires": 0,
+   
+   "mypct": 0.58
+ },
+ {
+   "id": 840,
+   "country": "United States",
+   "my19": 329.065,
+   "gdppc": 65.134,"billionaires": 0,
+   
+   "mypct": 0.6
+ },
+ {
+   "id": 858,
+   "country": "Uruguay",
+   "my19": 3.462,
+   "gdppc": 16.189,"billionaires": 0,
+   
+   "mypct": 0.36
+ },
+ {
+   "id": 860,
+   "country": "Uzbekistan",
+   "my19": 32.982,
+   "gdppc": 1.756,"billionaires": 0,
+   
+   "mypct": 1.56
+ },
+ {
+   "id": 548,
+   "country": "Vanuatu",
+   "my19": 0.3,
+   "gdppc": 3.02,"billionaires": 0,
+   
+   "mypct": 2.46
+ },
+ {
+   "id": 862,
+   "country": "Venezuela",
+   "my19": 28.516,
+   "gdppc": 4.733,"billionaires": 0,
+   
+   "mypct": -1.29
+ },
+ {
+   "id": 704,
+   "country": "Vietnam",
+   "my19": 96.462,
+   "gdppc": 2.715,"billionaires": 0,
+   
+   "mypct": 0.96
+ },
+ {
+   "id": 887,
+   "country": "Yemen",
+   "my19": 29.162,
+   "gdppc": 0.855,"billionaires": 0,
+   
+   "mypct": 2.33
+ },
+ {
+   "id": 894,
+   "country": "Zambia",
+   "my19": 17.861,
+   "gdppc": 1.292,"billionaires": 0,
+   
+   "mypct": 2.94
+ },
+ {
+   "id": 716,
+   "country": "Zimbabwe",
+   "my19": 14.645,
+   "gdppc": 1.464,"billionaires": 0,
+   
+   "mypct": 1.43
+ }
+]
